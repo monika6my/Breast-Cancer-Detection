@@ -1,2 +1,2 @@
-# Breast Cancer Detection on Wisconsin Data
+# Breast Cancer Detection using Wisconsin Data
 This is a part of course work for Intro to Data Science (IDS). In this project, we worked on the Kaggle Breast Cancer Wisconsin Diagnostic Data to diagnose whether the patients have breast cancer or not using a decision tree ensemble algorithm XGBoost. This classifier incorporates gradient boosting framework for minimising erorrs. We tuned the hyperparameters to achieve an accuracy of 95%.
